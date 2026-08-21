@@ -17,7 +17,7 @@ int* frq_of_each(int arr[],int arr_size , int *return_size) {
 
     for (int i=0 ; i<arr_size;i++) {
 
-        if (count[arr[i]] >0) {
+
 
             ans[k] = arr[i];
 
@@ -30,7 +30,7 @@ int* frq_of_each(int arr[],int arr_size , int *return_size) {
             count[arr[i]] = 0;
 
 
-        }
+
 
     }
 
