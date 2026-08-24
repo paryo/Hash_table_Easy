@@ -1,4 +1,4 @@
-#include <stdbool.h>
+
 #include <stdio.h>
 
 void isPermutation(int arr[] , int arr_size , int n) {
