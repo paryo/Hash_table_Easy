@@ -43,7 +43,7 @@ void isPermutation(int arr[] , int arr_size , int n) {
 
 int main() {
 
-    int arr[] = {2, 1, 4, 3};
+    int arr[] = {2, 3, 4, 3};
 
     int arr_size = sizeof(arr)/sizeof(arr[0]);
 
